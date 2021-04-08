@@ -1,0 +1,14 @@
+﻿  Hiip.cpp
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(42,24): error C2059: syntax error: ')'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(42,37): error C2059: syntax error: ')'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(43,3): error C2146: syntax error: missing ';' before identifier 'vect1'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(51,48): error C2146: syntax error: missing ')' before identifier 'i'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(51,42): warning C4552: '>=': result of expression not used
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(51,49): error C2059: syntax error: ';'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(51,51): error C2059: syntax error: ')'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(53,15): error C2065: 'indexMax': undeclared identifier
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(53,24): error C2059: syntax error: ';'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(55,1): error C2059: syntax error: '}'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(55,1): error C2143: syntax error: missing ';' before '}'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(58,1): error C2143: syntax error: missing ';' before '{'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Hiip\Hiip\Hiip.cpp(58,1): error C2447: '{': missing function header (old-style formal list?)

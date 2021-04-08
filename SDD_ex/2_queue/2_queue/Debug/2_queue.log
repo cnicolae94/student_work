@@ -1,0 +1,9 @@
+﻿  2_queue.cpp
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(84,1): error C2628: 'Queue' followed by 'int' is illegal (did you forget a ';'?)
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(85,1): error C3874: return type of 'main' should be 'int' instead of 'Queue'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(128,13): error C2440: 'return': cannot convert from 'int' to 'Queue'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(128,13): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(72,1): error C2181: illegal else without matching if
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(75,13): error C2146: syntax error: missing ')' before identifier 'front'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(80,5): error C2059: syntax error: '}'
+D:\_ASE CSIE\AN2\Semestrul 2\Structuri de date\Exercitii\Exercitii\2_queue\2_queue\2_queue.cpp(80,1): error C2143: syntax error: missing ';' before '}'
