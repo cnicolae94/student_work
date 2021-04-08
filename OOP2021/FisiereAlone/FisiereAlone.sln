@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FisiereAlone", "FisiereAlone\FisiereAlone.vcxproj", "{C517CF59-4D28-466C-8BBD-D554FA88CDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Debug|x64.ActiveCfg = Debug|x64
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Debug|x64.Build.0 = Debug|x64
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Debug|x86.Build.0 = Debug|Win32
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Release|x64.ActiveCfg = Release|x64
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Release|x64.Build.0 = Release|x64
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Release|x86.ActiveCfg = Release|Win32
+		{C517CF59-4D28-466C-8BBD-D554FA88CDDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9551D1C1-F547-48E7-A247-E35E30DF54DD}
+	EndGlobalSection
+EndGlobal

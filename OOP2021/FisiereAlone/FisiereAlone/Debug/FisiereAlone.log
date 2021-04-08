@@ -1,0 +1,4 @@
+﻿  FisiereAlone.cpp
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\FisiereAlone\FisiereAlone\FisiereAlone.cpp(129,26): error C2371: 'f': redefinition; different basic types
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\FisiereAlone\FisiereAlone\FisiereAlone.cpp(127): message : see declaration of 'f'
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\FisiereAlone\FisiereAlone\FisiereAlone.cpp(249,47): warning C4305: 'argument': truncation from 'double' to 'float'

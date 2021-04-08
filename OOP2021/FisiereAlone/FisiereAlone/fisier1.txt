@@ -1,0 +1,3 @@
+Denumirea fisierului este:Fisier1
+Dimensiunea: 15.2
+Continutul: Audio

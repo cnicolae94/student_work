@@ -1,0 +1,6 @@
+﻿  mostenireDerivare.cpp
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\mostenireDerivare\mostenireDerivare\mostenireDerivare.cpp(82,28): warning C4018: '<': signed/unsigned mismatch
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\mostenireDerivare\mostenireDerivare\mostenireDerivare.cpp(177,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\mostenireDerivare\mostenireDerivare\mostenireDerivare.cpp(182,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\mostenireDerivare\mostenireDerivare\mostenireDerivare.cpp(184,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  mostenireDerivare.vcxproj -> D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\mostenireDerivare\Debug\mostenireDerivare.exe

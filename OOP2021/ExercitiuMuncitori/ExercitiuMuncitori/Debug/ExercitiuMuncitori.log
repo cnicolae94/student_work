@@ -1,0 +1,6 @@
+﻿  ExercitiuMuncitori.cpp
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\ExercitiuMuncitori\ExercitiuMuncitori\ExercitiuMuncitori.cpp(65,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\ExercitiuMuncitori\ExercitiuMuncitori\ExercitiuMuncitori.cpp(70,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\ExercitiuMuncitori\ExercitiuMuncitori\ExercitiuMuncitori.cpp(75,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\ExercitiuMuncitori\ExercitiuMuncitori\ExercitiuMuncitori.cpp(89,57): warning C4305: 'argument': truncation from 'double' to 'float'
+  ExercitiuMuncitori.vcxproj -> D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\ExercitiuMuncitori\Debug\ExercitiuMuncitori.exe

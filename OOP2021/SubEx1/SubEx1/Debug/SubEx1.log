@@ -1,0 +1,5 @@
+﻿  SubEx1.cpp
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\SubEx1\SubEx1\SubEx1.cpp(120,28): warning C4018: '<': signed/unsigned mismatch
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\SubEx1\SubEx1\SubEx1.cpp(130,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\SubEx1\SubEx1\SubEx1.cpp(126): warning C4715: 'Student::operator[]': not all control paths return a value
+  SubEx1.vcxproj -> D:\_ASE CSIE\AN2\Semestrul 1\_Restanta\POO 2.00 restanta fmm\Repos POO\SubEx1\Debug\SubEx1.exe
