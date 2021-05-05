@@ -1,0 +1,9 @@
+7
+15 Proiect1 3.5 1
+23 Proiect2 6 4
+35 Proiect3 10 2
+7 Proiect4 7.5 5
+99 Proiect5 6.8 4
+99 Proiect6 7.8 3
+81 Proiect6 9.5 7
+

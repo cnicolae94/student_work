@@ -1,0 +1,6 @@
+5
+15 Proiect1 3.5 Python
+23 Proiect2 6 Java
+35 Proiect3 10 SQL
+7 Proiect4 7.5 C#
+99 Proiect5 6.8 C++

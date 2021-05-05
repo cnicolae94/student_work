@@ -1,0 +1,4 @@
+﻿  BillingSystem.cpp
+D:\_ASE CSIE\AN2\General Git\student_work\SDD_ex\BillingSystem\BillingSystem\BillingSystem.cpp(192,38): warning C4553: '==': result of expression not used; did you intend '='?
+D:\_ASE CSIE\AN2\General Git\student_work\SDD_ex\BillingSystem\BillingSystem\BillingSystem.cpp(196): warning C4715: 'stergere': not all control paths return a value
+  BillingSystem.vcxproj -> D:\_ASE CSIE\AN2\General Git\student_work\SDD_ex\BillingSystem\Debug\BillingSystem.exe

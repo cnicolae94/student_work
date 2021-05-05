@@ -1,0 +1,3 @@
+﻿  SimpleStockList.cpp
+D:\_ASE CSIE\AN2\General Git\student_work\SDD_ex\SimpleStockList\SimpleStockList\SimpleStockList.cpp(72,19): warning C4305: '=': truncation from 'double' to 'float'
+  SimpleStockList.vcxproj -> D:\_ASE CSIE\AN2\General Git\student_work\SDD_ex\SimpleStockList\Debug\SimpleStockList.exe
