@@ -24,7 +24,7 @@ namespace CasaSchimbValutar
             id = 1000;
         }
 
-        public Transaction(String name, String surname, float amount, Currency currencyFrom, float endAmount, Currency currencyTo, DateTime transactionDate)
+        public Transaction(int id, String name, String surname, float amount, Currency currencyFrom, float endAmount, Currency currencyTo, DateTime transactionDate)
         {
             this.id = ++globalID;
             this.name = name;

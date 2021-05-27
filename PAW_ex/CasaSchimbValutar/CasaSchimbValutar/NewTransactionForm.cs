@@ -12,6 +12,7 @@ namespace CasaSchimbValutar
 {
     public partial class NewTransactionForm : Form
     {
+        
         public NewTransactionForm()
         {
             InitializeComponent();
@@ -20,8 +21,10 @@ namespace CasaSchimbValutar
             DateTime d = new DateTime();
             d = DateTime.Now;
             txtDateTime.Text = d.ToShortDateString();
-
+            
         }
+
+        List<Transaction> lista = null; //initializam lista
 
         private void txtCNP_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -56,6 +59,7 @@ namespace CasaSchimbValutar
 
         private void btnTransaction_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Are you sure?", "Yes/No", MessageBoxButtons.YesNo);
             if (!chkTOS.Checked)
             {
                 MessageBox.Show("Please read the terms of service.");
@@ -64,6 +68,15 @@ namespace CasaSchimbValutar
             {
                 MessageBox.Show("Please review the ID number input.");
             }
+
+            //introducem obiectele in lista
+            Transaction t = new Transaction();
+            t.amount = float.Parse(txtFrom.ToString());
+            //ATENTIE
+            //t.currencyFrom = cbCurr1.SelectedValue.ToString();
+            t.endAmount = float.Parse(txtTo.ToString());
+            t.id = int.Parse(txtID.ToString());
+
 
         }
 

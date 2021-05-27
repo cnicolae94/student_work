@@ -41,9 +41,11 @@ namespace CasaSchimbValutar
             this.errCurr1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.errCurr2 = new System.Windows.Forms.ErrorProvider(this.components);
             this.btnCancelConverter = new System.Windows.Forms.Button();
+            this.currencyBindingSource = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.errTxtFrom)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errCurr1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errCurr2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.currencyBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // txtFrom
@@ -56,6 +58,7 @@ namespace CasaSchimbValutar
             this.txtFrom.TextChanged += new System.EventHandler(this.txtFrom_TextChanged);
             this.txtFrom.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtFrom_KeyPress);
             this.txtFrom.Validating += new System.ComponentModel.CancelEventHandler(this.txtFrom_Validating);
+            this.txtFrom.Validated += new System.EventHandler(this.txtFrom_Validated);
             // 
             // txtTo
             // 
@@ -78,7 +81,9 @@ namespace CasaSchimbValutar
             this.cbCurr1.Name = "cbCurr1";
             this.cbCurr1.Size = new System.Drawing.Size(102, 21);
             this.cbCurr1.TabIndex = 3;
+            this.cbCurr1.TabIndexChanged += new System.EventHandler(this.btnConvert_Click);
             this.cbCurr1.Validating += new System.ComponentModel.CancelEventHandler(this.cbCurr1_Validating);
+            this.cbCurr1.Validated += new System.EventHandler(this.cbCurr1_Validated);
             // 
             // cbCurr2
             // 
@@ -94,10 +99,12 @@ namespace CasaSchimbValutar
             this.cbCurr2.Size = new System.Drawing.Size(96, 21);
             this.cbCurr2.TabIndex = 4;
             this.cbCurr2.Validating += new System.ComponentModel.CancelEventHandler(this.cbCurr2_Validating);
+            this.cbCurr2.Validated += new System.EventHandler(this.cbCurr2_Validated);
             // 
             // btnConvert
             // 
             this.btnConvert.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.btnConvert.Enabled = false;
             this.btnConvert.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnConvert.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnConvert.Location = new System.Drawing.Point(319, 109);
@@ -111,6 +118,7 @@ namespace CasaSchimbValutar
             // 
             // errTxtFrom
             // 
+            this.errTxtFrom.BlinkStyle = System.Windows.Forms.ErrorBlinkStyle.AlwaysBlink;
             this.errTxtFrom.ContainerControl = this;
             // 
             // lbOriginal
@@ -135,10 +143,12 @@ namespace CasaSchimbValutar
             // 
             // errCurr1
             // 
+            this.errCurr1.BlinkStyle = System.Windows.Forms.ErrorBlinkStyle.AlwaysBlink;
             this.errCurr1.ContainerControl = this;
             // 
             // errCurr2
             // 
+            this.errCurr2.BlinkStyle = System.Windows.Forms.ErrorBlinkStyle.AlwaysBlink;
             this.errCurr2.ContainerControl = this;
             // 
             // btnCancelConverter
@@ -150,6 +160,10 @@ namespace CasaSchimbValutar
             this.btnCancelConverter.Text = "Cancel";
             this.btnCancelConverter.UseVisualStyleBackColor = true;
             this.btnCancelConverter.Click += new System.EventHandler(this.btnCancelConverter_Click);
+            // 
+            // currencyBindingSource
+            // 
+            this.currencyBindingSource.DataSource = typeof(CasaSchimbValutar.Currency);
             // 
             // ConversionForm
             // 
@@ -169,6 +183,7 @@ namespace CasaSchimbValutar
             ((System.ComponentModel.ISupportInitialize)(this.errTxtFrom)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errCurr1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errCurr2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.currencyBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -186,5 +201,6 @@ namespace CasaSchimbValutar
         private System.Windows.Forms.ErrorProvider errCurr1;
         private System.Windows.Forms.ErrorProvider errCurr2;
         private System.Windows.Forms.Button btnCancelConverter;
+        private System.Windows.Forms.BindingSource currencyBindingSource;
     }
 }

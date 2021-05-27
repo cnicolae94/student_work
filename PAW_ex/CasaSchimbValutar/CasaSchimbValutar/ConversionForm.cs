@@ -94,10 +94,11 @@ namespace CasaSchimbValutar
             
         }
 
-        //private bool filledIn()
-        //{
-        //    if (txtFrom.Text.All(char.IsDigit) && cbCurr1.SelectedIndex > -1 && cbCurr2.SelectedIndex > -1)
+        //private bool isSelected(){
+        //    if (cbCurr1.SelectedIndex != -1 && cbCurr2.SelectedIndex != -1)
+        //    {
         //        return true;
+        //    }
         //    else
         //        return false;
         //}
@@ -106,8 +107,14 @@ namespace CasaSchimbValutar
         {
             if(string.IsNullOrEmpty(txtFrom.Text))
             {
-                errTxtFrom.SetError(txtFrom, "Please input the amount to be converted.");
+                errTxtFrom.SetError(txtFrom, 
+                    "Please input the amount to be converted."); ;
             }
+        }
+
+        private void txtFrom_Validated(object sender, EventArgs e)
+        {
+            errTxtFrom.SetError((Control)sender, String.Empty);
         }
 
         private void cbCurr1_Validating(object sender, CancelEventArgs e)
@@ -115,6 +122,14 @@ namespace CasaSchimbValutar
             if(cbCurr1.SelectedIndex == -1)
             {
                 errCurr1.SetError(cbCurr1, "Please select the currency.");
+            }
+        }
+
+        private void cbCurr1_Validated(object sender, EventArgs e)
+        {
+            if (cbCurr1.SelectedIndex > -1)
+            { 
+                errCurr1.SetError((Control)sender, String.Empty);
             }
         }
 
@@ -126,6 +141,14 @@ namespace CasaSchimbValutar
             }
         }
 
+        private void cbCurr2_Validated(object sender, EventArgs e)
+        {
+            if (cbCurr2.SelectedIndex > -1)
+            {
+                errCurr2.SetError((Control)sender, String.Empty);
+            }
+        }
+
         private void btnCancelConverter_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -133,12 +156,16 @@ namespace CasaSchimbValutar
 
         private void txtFrom_TextChanged(object sender, EventArgs e)
         {
-            if (txtFrom.Text.All(char.IsDigit) && cbCurr1.SelectedIndex > -1)
+            //bool temp = isSelected();
+            if (txtFrom.Text.All(char.IsDigit))
             {
-                this.btnConvert.Enabled = true;
+                    btnConvert.Enabled = true;
             }
-            
-                
         }
+       
+
+        
+
+        
     }    
 }

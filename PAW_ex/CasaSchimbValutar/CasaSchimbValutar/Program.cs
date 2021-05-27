@@ -17,7 +17,7 @@ namespace CasaSchimbValutar
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
 
-            //Rate-urile raportat la RON 
+            //Ratele raportate la RON 
 
             ExchangeRate rateRON = new ExchangeRate();
             rateRON.rate = 1;
@@ -40,6 +40,13 @@ namespace CasaSchimbValutar
             Currency USD = new Currency("American Dollar", "USD", rateUSD);
             Currency GBP = new Currency("British Pound", "GBP", rateGBP);
             Currency CHF = new Currency("Swiss Franc", "CHF", rateCHF);
+
+            List<Currency> cbList = null;
+            cbList.Add(RON);
+            cbList.Add(EUR);
+            cbList.Add(USD);
+            cbList.Add(GBP);
+            cbList.Add(CHF);
         }
     }
 

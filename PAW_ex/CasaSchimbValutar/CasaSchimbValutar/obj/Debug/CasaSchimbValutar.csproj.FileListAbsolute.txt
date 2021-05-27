@@ -15,3 +15,5 @@ D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbVal
 D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Net.Http.Formatting.xml
 D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.CopyComplete
 D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.NewTransactionForm.resources
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Data.SQLite.dll
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Data.SQLite.xml
