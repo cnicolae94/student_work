@@ -1,0 +1,38 @@
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\CasaSchimbValutar.exe.config
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\CasaSchimbValutar.exe
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\CasaSchimbValutar.pdb
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\Newtonsoft.Json.dll
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Data.SQLite.dll
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Net.Http.Formatting.dll
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\Newtonsoft.Json.xml
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Data.SQLite.xml
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Net.Http.Formatting.xml
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.MainForm.resources
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.ConversionForm.resources
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.NewTransactionForm.resources
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.Properties.Resources.resources
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.GenerateResource.cache
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.CoreCompileInputs.cache
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.CopyComplete
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.exe
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.pdb
+D:\_ASE CSIE\AN2\General Git\student_work\PAW_ex\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.AssemblyReference.cache
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\CasaSchimbValutar.exe.config
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\CasaSchimbValutar.exe
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\CasaSchimbValutar.pdb
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Data.SQLite.dll
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Data.SQLite.xml
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csprojAssemblyReference.cache
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.MainForm.resources
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.ConversionForm.resources
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.NewTransactionForm.resources
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.Properties.Resources.resources
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.GenerateResource.cache
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.CoreCompileInputs.cache
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.csproj.CopyComplete
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.exe
+C:\Users\CORINA\Downloads\CasaSchimbValutar\CasaSchimbValutar\obj\Debug\CasaSchimbValutar.pdb
