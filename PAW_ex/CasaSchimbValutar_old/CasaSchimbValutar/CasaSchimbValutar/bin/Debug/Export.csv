@@ -1,0 +1,5 @@
+ID, Name, Surname, Transaction Date, CNP, Initial amount, Currency, End amount, Currency
+1000, Oana , Zavoreanu, 30/05/2021 00:00:00, 295687436915, 85, , CasaSchimbValutar.Currency, 354, 
+1004, Lenovoo, MousePadoo, 30/05/2020 00:00:00, 856941237588, 900, , CasaSchimbValutar.Currency, 818, 
+1005, Caiet, Studentes, 19/06/2021 00:00:00, 584632195686, 856, , CasaSchimbValutar.Currency, 188, 
+1007, Pungulescu, Florin, 30/05/2021 00:00:00, 19568326168936, 100, , CasaSchimbValutar.Currency, 500, 
